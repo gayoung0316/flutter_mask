@@ -1,6 +1,6 @@
 # flutter_mask
 
-A new Flutter project.
+인프러 강의에서 나온 프로젝트 예제입니다.
 
 ## Getting Started
 
